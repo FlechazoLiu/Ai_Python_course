@@ -1,4 +1,4 @@
-count = 0
+'''count = 0
 def fact(n):
     global count
     count += 1
@@ -8,4 +8,10 @@ def fact(n):
         return n * fact(n-1)
    # count += 1
 fact(5)
-print(count)
+print(count)'''
+
+w = input('Enter a sentence: ')
+for string in w:
+    if string.lower() == 'u':
+        string = '[omitted]'
+print(w)

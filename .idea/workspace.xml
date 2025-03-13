@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c375698d-8953-41da-ab1d-0f8682e63b09" name="更改" comment="initialize list_tuple,string.jpynb">
+    <list default="true" id="c375698d-8953-41da-ab1d-0f8682e63b09" name="更改" comment="initialize dictionary,programme_control.jpynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/汉诺塔问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/汉诺塔问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Self_Learning/programme_control.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Self_Learning/programme_control.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/递归.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +156,8 @@
       <workItem from="1741609232014" duration="160000" />
       <workItem from="1741672780502" duration="25000" />
       <workItem from="1741778986881" duration="6334000" />
-      <workItem from="1741855868834" duration="1112000" />
+      <workItem from="1741855868834" duration="2324000" />
+      <workItem from="1741864367121" duration="8299000" />
     </task>
     <task id="LOCAL-00001" summary="course_week_2">
       <option name="closed" value="true" />
@@ -213,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741607311955</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initialize dictionary,programme_control.jpynb">
+      <option name="closed" value="true" />
+      <created>1741858177360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741858177360</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,11 +258,12 @@
     <MESSAGE value="turtle learning code" />
     <MESSAGE value="initialize basic_info.ipynb" />
     <MESSAGE value="initialize list_tuple,string.jpynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize list_tuple,string.jpynb" />
+    <MESSAGE value="initialize dictionary,programme_control.jpynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize dictionary,programme_control.jpynb" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Code_Ai_Python$turtle_star.coverage" NAME="turtle_star 覆盖结果" MODIFIED="1740411995073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle_learning" />
-    <SUITE FILE_PATH="coverage/Code_Ai_Python$.coverage" NAME="汉诺塔问题 覆盖结果" MODIFIED="1741672794217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
+    <SUITE FILE_PATH="coverage/Code_Ai_Python$.coverage" NAME="递归 覆盖结果" MODIFIED="1741868789733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
     <SUITE FILE_PATH="coverage/Code_Ai_Python$try.coverage" NAME="try 覆盖结果" MODIFIED="1740998996619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
     <SUITE FILE_PATH="coverage/Code_Ai_Python$hello_world.coverage" NAME="hello world 覆盖结果" MODIFIED="1740379775081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code_Ai_Python$turtle_try.coverage" NAME="turtle_try 覆盖结果" MODIFIED="1740411519224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -6,7 +6,8 @@ def leibniz(rounds):
     for i in range(rounds):
         s = s + 1 / (2 * i + 1) * r
         r = - r
-    print( 4 * s )
+        if i in show:
+            print("round:",i , 4 * s )
 
 def Monte_Carlo(rounds):
     hits = 0
@@ -15,27 +16,36 @@ def Monte_Carlo(rounds):
         r = math.sqrt(x * x + y * y)
         if r < 1:
             hits += 1
-    print(4 * hits / rounds )
+        if i in show:
+            print("round:",i,4 * hits / i)
 
 def Nilakantha(rounds):
     s = 3
     r = 1
-    for i in range(2, rounds + 2):
-        s += 4 / (i * (i + 1) * (i + 2)) * r
+    for i in range(1, rounds + 2):
+        s += 4 / (2*i * (2*i + 1) * (2*i + 2)) * r
         r = - r
-    print(s)
+        if i in show:
+            print("round:",i,s)
+
+
 def func(choice,p):
+    global name
     if choice == 1:
         f = leibniz
+
     elif choice == 2:
         f = Monte_Carlo
+
     elif choice == 3:
         f = Nilakantha
+
     f(p)
 
 
+show = [1,10,20,50,100,200,500,1000,10000,15000,50000,100000]
 choice = int(input("Which method do you use(1 for leibniz/2 for Monte Carlo/3 for Nilakantha):"))
 p = int(input("How many rounds do you want:"))
-print("pi is around ",end="")
+print("pi is around:")
 
 func(choice,p)

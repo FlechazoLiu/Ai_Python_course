@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c375698d-8953-41da-ab1d-0f8682e63b09" name="更改" comment="2025.3.17按进度更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Notes/week_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Notes/week_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Self_Learning/4_dictionary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Self_Learning/4_dictionary.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Self_Learning/class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Self_Learning/7_class.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,42 +47,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.hello world.executor": "Run",
-    "Python.shuxue.executor": "Run",
-    "Python.try.executor": "Run",
-    "Python.turtle_circle.executor": "Run",
-    "Python.turtle_object-oriented.executor": "Run",
-    "Python.turtle_script.executor": "Run",
-    "Python.turtle_star.executor": "Run",
-    "Python.turtle_try.executor": "Run",
-    "Python.turtle_正方形螺旋线.executor": "Run",
-    "Python.二维卷积.executor": "Run",
-    "Python.判断闰年.executor": "Run",
-    "Python.奇偶数组.executor": "Run",
-    "Python.字典实现简单计算器.executor": "Run",
-    "Python.求和与积分的关系.executor": "Run",
-    "Python.汉诺塔问题.executor": "Run",
-    "Python.科赫曲线.executor": "Run",
-    "Python.级数法求圆周率.executor": "Run",
-    "Python.绘制数码管.executor": "Run",
-    "Python.递归.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Myself/Codefield/Code_Python/Code_Ai_Python/exercise",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.hello world.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shuxue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_object-oriented.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_star.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_正方形螺旋线.executor&quot;: &quot;Run&quot;,
+    &quot;Python.二维卷积.executor&quot;: &quot;Run&quot;,
+    &quot;Python.判断闰年.executor&quot;: &quot;Run&quot;,
+    &quot;Python.奇偶数组.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典实现简单计算器.executor&quot;: &quot;Run&quot;,
+    &quot;Python.求和与积分的关系.executor&quot;: &quot;Run&quot;,
+    &quot;Python.汉诺塔问题.executor&quot;: &quot;Run&quot;,
+    &quot;Python.科赫曲线.executor&quot;: &quot;Run&quot;,
+    &quot;Python.级数法求圆周率.executor&quot;: &quot;Run&quot;,
+    &quot;Python.绘制数码管.executor&quot;: &quot;Run&quot;,
+    &quot;Python.递归.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Myself/Codefield/Code_Python/Code_Ai_Python/exercise&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Myself\Codefield\Code_Python\Code_Ai_Python\exercise" />
@@ -188,6 +187,7 @@
       <workItem from="1742221433031" duration="1729000" />
       <workItem from="1742270241784" duration="18000" />
       <workItem from="1742270269686" duration="13419000" />
+      <workItem from="1742351248594" duration="8169000" />
     </task>
     <task id="LOCAL-00001" summary="course_week_2">
       <option name="closed" value="true" />

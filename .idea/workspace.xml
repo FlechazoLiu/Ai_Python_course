@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c375698d-8953-41da-ab1d-0f8682e63b09" name="更改" comment="2025.3.17按进度更新">
+    <list default="true" id="c375698d-8953-41da-ab1d-0f8682e63b09" name="更改" comment="2025.3.19按进度更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Self_Learning/class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Self_Learning/7_class.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Self_Learning/11_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Self_Learning/11_file.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Self_Learning/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Self_Learning/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -47,42 +48,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.hello world.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shuxue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.try.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_object-oriented.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_star.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_try.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_正方形螺旋线.executor&quot;: &quot;Run&quot;,
-    &quot;Python.二维卷积.executor&quot;: &quot;Run&quot;,
-    &quot;Python.判断闰年.executor&quot;: &quot;Run&quot;,
-    &quot;Python.奇偶数组.executor&quot;: &quot;Run&quot;,
-    &quot;Python.字典实现简单计算器.executor&quot;: &quot;Run&quot;,
-    &quot;Python.求和与积分的关系.executor&quot;: &quot;Run&quot;,
-    &quot;Python.汉诺塔问题.executor&quot;: &quot;Run&quot;,
-    &quot;Python.科赫曲线.executor&quot;: &quot;Run&quot;,
-    &quot;Python.级数法求圆周率.executor&quot;: &quot;Run&quot;,
-    &quot;Python.绘制数码管.executor&quot;: &quot;Run&quot;,
-    &quot;Python.递归.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Myself/Codefield/Code_Python/Code_Ai_Python/exercise&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.hello world.executor": "Run",
+    "Python.shuxue.executor": "Run",
+    "Python.try.executor": "Run",
+    "Python.turtle_circle.executor": "Run",
+    "Python.turtle_object-oriented.executor": "Run",
+    "Python.turtle_script.executor": "Run",
+    "Python.turtle_star.executor": "Run",
+    "Python.turtle_try.executor": "Run",
+    "Python.turtle_正方形螺旋线.executor": "Run",
+    "Python.二维卷积.executor": "Run",
+    "Python.判断闰年.executor": "Run",
+    "Python.吃豆人.executor": "Run",
+    "Python.奇偶数组.executor": "Run",
+    "Python.字典实现简单计算器.executor": "Run",
+    "Python.求和与积分的关系.executor": "Run",
+    "Python.汉诺塔问题.executor": "Run",
+    "Python.科赫曲线.executor": "Run",
+    "Python.级数法求圆周率.executor": "Run",
+    "Python.绘制数码管.executor": "Run",
+    "Python.递归.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Myself/Codefield/Code_Python/Code_Ai_Python/exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Myself\Codefield\Code_Python\Code_Ai_Python\exercise" />
@@ -187,7 +189,8 @@
       <workItem from="1742221433031" duration="1729000" />
       <workItem from="1742270241784" duration="18000" />
       <workItem from="1742270269686" duration="13419000" />
-      <workItem from="1742351248594" duration="8169000" />
+      <workItem from="1742351248594" duration="8380000" />
+      <workItem from="1742531307217" duration="4923000" />
     </task>
     <task id="LOCAL-00001" summary="course_week_2">
       <option name="closed" value="true" />
@@ -285,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742223115211</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2025.3.19按进度更新">
+      <option name="closed" value="true" />
+      <created>1742362571105</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742362571105</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,12 +336,13 @@
     <MESSAGE value="initial abstraction.jpynb" />
     <MESSAGE value="为所有章节添加章节数" />
     <MESSAGE value="2025.3.17按进度更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025.3.17按进度更新" />
+    <MESSAGE value="2025.3.19按进度更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025.3.19按进度更新" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Code_Ai_Python$turtle_star.coverage" NAME="turtle_star 覆盖结果" MODIFIED="1740411995073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle_learning" />
     <SUITE FILE_PATH="coverage/Code_Ai_Python$turtle_circle.coverage" NAME="turtle_circle 覆盖结果" MODIFIED="1742187112740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle_learning" />
-    <SUITE FILE_PATH="coverage/Code_Ai_Python$.coverage" NAME="字典实现简单计算器 覆盖结果" MODIFIED="1742280270128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
+    <SUITE FILE_PATH="coverage/Code_Ai_Python$.coverage" NAME="吃豆人 覆盖结果" MODIFIED="1742532307601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../RUC/Study/自修拓展/程序设计/吃豆人" />
     <SUITE FILE_PATH="coverage/Code_Ai_Python$try.coverage" NAME="try 覆盖结果" MODIFIED="1740998996619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
     <SUITE FILE_PATH="coverage/Code_Ai_Python$hello_world.coverage" NAME="hello world 覆盖结果" MODIFIED="1740379775081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Code_Ai_Python$turtle_try.coverage" NAME="turtle_try 覆盖结果" MODIFIED="1740411519224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -27,9 +27,9 @@ chars_ls = list(filter(lambda w: len(w) > 1, chars.split('\n')))
 dir = os.listdir(path=r'D:\Myself\RUC\Study\第二学期\Ai_Python\HW\作业5\射雕英雄传')
 # print(dir)
 headers = [""] + [a[:-4] for a in dir]
-# print(headers)
-headers.pop(headers.index("后记"))
-headers.append("后记")
+print(headers)
+# headers.pop(headers.index("后记"))
+# headers.append("后记")
 words = []
 counts = {}
 

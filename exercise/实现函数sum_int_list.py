@@ -1,12 +1,10 @@
 def sum_int_list(input_list, target):
-    p = sorted(input_list)
-    ls = []
-    for num in p:
-        if (target - num) in input_list:
-            ls.append(tuple(sorted((input_list.index(num), input_list.index(target - num)))))
-        else:
-            continue
+    l = len(input_list)
+    ls = [(i,j) for i in range(l) for j in range(l) if i < j
+          and input_list[i]+input_list[j]==target]
     ls.sort()
-    return list(set(ls))
+    return ls
 
-print(sum_int_list([-3, 3, -4, -8, 7], -1))
+print(sum_int_list([1,1], 2))
+
+# 13'55

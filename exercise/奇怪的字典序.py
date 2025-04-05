@@ -42,3 +42,5 @@ def sorted_with_weird_order(string_list, order):
     return merge_sort(string_list)
 
 print(sorted_with_weird_order(['','','c', 'b', 'a'], 'acbdefghijklmnopqrstuvwxyz'))
+
+## 用元组去排序

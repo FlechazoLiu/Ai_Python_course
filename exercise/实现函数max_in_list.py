@@ -6,8 +6,9 @@ def max_in_list(data):
                 max = item
         elif type(item) == tuple or type(item) == list or type(item) == set:
             item = list(item)
-            if max_in_list(item) > max:
-                max = max_in_list(item)
+            temp = max_in_list(item)
+            if temp > max:
+                max = temp
     if max == -999999:
         return None
     else:

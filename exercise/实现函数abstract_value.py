@@ -1,5 +1,5 @@
 def abstract_value(a):
-    if isinstance(a, (int, float)):
+    if isinstance(a, (int, float)): # Check if a is int or float
         return abs(a)
     else:
         try:
